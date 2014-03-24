@@ -1,0 +1,18 @@
+About Mura CMS:
+---------------
+Mura CMS is made by the good folks from blueRiver Interactive Group
+http://www.blueriver.com
+
+Intaller has been provided by Bilal Soylu
+http://www.boncode.net
+
+License Terms:
+see file in this directory:
+Mura_License_GNUv2.txt
+
+If you want to contribute to Mura CMS Project please contact blueRiver.
+
+Support and Service options are available online under the following URL:
+http://www.getmura.com/support/
+
+
